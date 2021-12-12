@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[My First](/sample_page)
+[My First](/This is my first)
 <img src="71xggswdBSL._SY355_.jpg?raw=true"/>
 
 ---
