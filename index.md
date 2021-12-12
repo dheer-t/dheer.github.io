@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [My First](/sample_page)
-<img src="images/Correct shutter.png?raw=true"/>
+<img src="images/71xggswdBSL._SY355_.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
